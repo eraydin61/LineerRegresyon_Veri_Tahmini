@@ -1,0 +1,1 @@
+# LineerRegresyon_Veri_Tahmini
